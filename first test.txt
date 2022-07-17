@@ -1,0 +1,7 @@
+Damian->Chairman
+Victor->vice Chairman
+Gloria->treasurer
+Janet->member
+YG->member
+Daniel->member
+kelly->memberkelly->member
